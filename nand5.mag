@@ -1,0 +1,110 @@
+magic
+tech scmos
+timestamp 1699981688
+<< nwell >>
+rect 0 -1 63 16
+<< ntransistor >>
+rect 12 -43 14 -38
+rect 21 -43 23 -38
+rect 30 -43 32 -38
+rect 38 -43 40 -38
+rect 47 -43 49 -38
+<< ptransistor >>
+rect 12 5 14 10
+rect 21 5 23 10
+rect 30 5 32 10
+rect 38 5 40 10
+rect 47 5 49 10
+<< ndiffusion >>
+rect 6 -39 12 -38
+rect 6 -43 7 -39
+rect 11 -43 12 -39
+rect 14 -43 21 -38
+rect 23 -43 30 -38
+rect 32 -43 38 -38
+rect 40 -43 47 -38
+rect 49 -42 52 -38
+rect 56 -42 57 -38
+rect 49 -43 57 -42
+<< pdiffusion >>
+rect 6 5 7 10
+rect 11 5 12 10
+rect 14 9 21 10
+rect 14 5 16 9
+rect 20 5 21 9
+rect 23 6 25 10
+rect 29 6 30 10
+rect 23 5 30 6
+rect 32 9 38 10
+rect 32 5 33 9
+rect 37 5 38 9
+rect 40 6 42 10
+rect 46 6 47 10
+rect 40 5 47 6
+rect 49 9 57 10
+rect 49 5 52 9
+rect 56 5 57 9
+<< ndcontact >>
+rect 7 -43 11 -39
+rect 52 -42 56 -38
+<< pdcontact >>
+rect 7 5 11 10
+rect 16 5 20 9
+rect 25 6 29 10
+rect 33 5 37 9
+rect 42 6 46 10
+rect 52 5 56 9
+<< polysilicon >>
+rect 12 10 14 13
+rect 21 10 23 13
+rect 30 10 32 13
+rect 38 10 40 13
+rect 47 10 49 13
+rect 12 -3 14 5
+rect 12 -38 14 -7
+rect 21 -10 23 5
+rect 21 -38 23 -14
+rect 30 -17 32 5
+rect 30 -38 32 -21
+rect 38 -24 40 5
+rect 38 -38 40 -28
+rect 47 -31 49 5
+rect 47 -38 49 -35
+rect 12 -46 14 -43
+rect 21 -46 23 -43
+rect 30 -46 32 -43
+rect 38 -46 40 -43
+rect 47 -46 49 -43
+<< polycontact >>
+rect 10 -7 14 -3
+rect 20 -14 24 -10
+rect 28 -21 32 -17
+rect 37 -28 41 -24
+rect 45 -35 49 -31
+<< metal1 >>
+rect 0 18 63 22
+rect 7 10 11 18
+rect 25 10 29 18
+rect 42 10 46 18
+rect 17 -3 20 5
+rect 33 -3 37 5
+rect 52 -3 56 5
+rect 6 -7 10 -3
+rect 17 -7 56 -3
+rect 6 -14 20 -10
+rect 6 -21 28 -17
+rect 6 -28 37 -24
+rect 6 -35 45 -31
+rect 52 -38 56 -7
+rect 7 -47 11 -43
+rect 6 -51 57 -47
+<< labels >>
+rlabel metal1 53 -6 55 -4 1 out
+rlabel metal1 7 -6 9 -4 1 e
+rlabel metal1 7 -13 9 -11 1 d
+rlabel metal1 7 -20 9 -18 1 c
+rlabel metal1 7 -27 9 -25 1 b
+rlabel metal1 7 -34 9 -32 1 a
+rlabel metal1 8 -46 10 -44 1 gnd
+rlabel metal1 8 19 10 21 5 vdd
+<< end >>
