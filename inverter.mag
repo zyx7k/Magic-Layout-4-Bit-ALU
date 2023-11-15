@@ -1,44 +1,39 @@
 magic
 tech scmos
-timestamp 1699982018
+timestamp 1700050252
 << nwell >>
-rect -9 1 15 17
+rect -32 -12 -8 4
 << ntransistor >>
-rect 2 -13 4 -9
+rect -21 -26 -19 -22
 << ptransistor >>
-rect 2 7 4 11
+rect -21 -6 -19 -2
 << ndiffusion >>
-rect 1 -13 2 -9
-rect 4 -13 5 -9
+rect -22 -26 -21 -22
+rect -19 -26 -18 -22
 << pdiffusion >>
-rect 1 7 2 11
-rect 4 7 5 11
+rect -22 -6 -21 -2
+rect -19 -6 -18 -2
 << ndcontact >>
-rect -3 -13 1 -9
-rect 5 -13 9 -9
+rect -26 -26 -22 -22
+rect -18 -26 -14 -22
 << pdcontact >>
-rect -3 7 1 11
-rect 5 7 9 11
+rect -26 -6 -22 -2
+rect -18 -6 -14 -2
 << polysilicon >>
-rect 2 11 4 14
-rect 2 -2 4 7
-rect -2 -4 4 -2
-rect 2 -9 4 -4
-rect 2 -16 4 -13
+rect -21 -2 -19 1
+rect -21 -15 -19 -6
+rect -25 -17 -19 -15
+rect -21 -22 -19 -17
+rect -21 -29 -19 -26
 << polycontact >>
-rect -6 -5 -2 -1
+rect -29 -18 -25 -14
 << metal1 >>
-rect -9 17 15 21
-rect -3 11 1 17
-rect -9 -5 -6 -1
-rect 5 -2 9 7
-rect 5 -6 16 -2
-rect 5 -9 9 -6
-rect -3 -17 1 -13
-rect -9 -21 16 -17
-<< labels >>
-rlabel metal1 -5 18 -3 19 4 VDD
-rlabel metal1 -8 -4 -7 -2 3 in
-rlabel metal1 13 -4 15 -3 7 out
-rlabel metal1 -2 -19 0 -18 1 gnd
+rect -32 4 -8 8
+rect -26 -2 -22 4
+rect -32 -18 -29 -14
+rect -18 -15 -14 -6
+rect -18 -19 -7 -15
+rect -18 -22 -14 -19
+rect -26 -30 -22 -26
+rect -32 -34 -7 -30
 << end >>

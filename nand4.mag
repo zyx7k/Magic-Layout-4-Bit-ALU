@@ -1,6 +1,6 @@
 magic
 tech scmos
-timestamp 1699968553
+timestamp 1700050467
 << nwell >>
 rect 0 0 52 18
 << ntransistor >>
@@ -85,12 +85,4 @@ rect 6 -28 36 -24
 rect 43 -31 47 -6
 rect 7 -42 11 -37
 rect 6 -46 48 -42
-<< labels >>
-rlabel metal1 7 -5 9 -3 1 d
-rlabel metal1 7 -13 9 -11 1 c
-rlabel metal1 7 -20 9 -18 1 b
-rlabel metal1 7 -27 9 -25 1 a
-rlabel metal1 44 -20 46 -18 1 out
-rlabel metal1 25 -45 27 -43 1 gnd
-rlabel metal1 18 21 20 23 5 vdd
 << end >>

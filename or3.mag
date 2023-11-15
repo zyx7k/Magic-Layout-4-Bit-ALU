@@ -1,0 +1,27 @@
+magic
+tech scmos
+timestamp 1700071091
+<< metal1 >>
+rect -1 54 0 58
+rect -1 31 0 35
+rect -1 24 0 28
+rect -1 17 0 21
+rect 36 16 55 20
+rect 80 15 81 19
+rect -1 0 0 4
+rect 48 0 58 4
+<< m2contact >>
+rect 44 54 49 59
+rect 55 38 60 43
+<< metal2 >>
+rect 49 54 59 58
+rect 55 43 59 54
+use inverter  inverter_0
+timestamp 1700050252
+transform 1 0 87 0 1 34
+box -32 -34 -7 8
+use nor3  nor3_0
+timestamp 1700050580
+transform 1 0 0 0 1 36
+box 0 -36 49 22
+<< end >>
