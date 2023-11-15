@@ -1,0 +1,88 @@
+magic
+tech scmos
+timestamp 1700084785
+<< polysilicon >>
+rect -15 250 4 252
+rect -56 180 -54 184
+rect -56 31 -54 176
+rect -15 178 -13 250
+rect -19 176 -13 178
+rect -15 114 -13 176
+rect -10 242 3 244
+rect -10 173 -8 242
+rect -10 171 3 173
+rect -49 88 -47 105
+rect -10 107 -8 171
+rect -19 105 -8 107
+rect -4 100 3 102
+rect -4 88 -2 100
+rect -49 86 -2 88
+rect -49 39 -47 86
+rect -49 37 4 39
+rect -56 29 3 31
+<< polycontact >>
+rect -59 184 -54 189
+rect -57 176 -53 180
+rect -23 175 -19 179
+rect 4 249 8 253
+rect -19 114 -15 118
+rect 3 241 7 245
+rect -50 105 -46 109
+rect -23 104 -19 108
+rect 3 170 7 174
+rect 3 99 7 103
+rect 4 36 8 40
+rect 3 28 7 32
+<< metal1 >>
+rect 80 248 81 252
+rect -54 184 -53 189
+rect -58 176 -57 180
+rect -53 176 -44 180
+rect 81 177 82 181
+rect -19 111 0 114
+rect -58 105 -50 109
+rect -46 105 -44 109
+rect -3 107 4 111
+rect 81 106 82 110
+rect 80 35 81 39
+<< m2contact >>
+rect 6 213 11 218
+rect -25 198 -20 203
+rect -53 184 -48 189
+rect -1 178 4 183
+rect -24 159 -19 164
+rect 5 151 10 156
+rect 6 142 11 147
+rect -25 127 -20 132
+rect -23 89 -18 94
+rect 5 80 10 85
+<< metal2 >>
+rect -1 293 0 297
+rect -7 213 6 217
+rect -7 202 -3 213
+rect -20 198 -3 202
+rect -48 184 4 187
+rect -1 183 4 184
+rect -19 160 1 164
+rect -3 155 1 160
+rect -3 151 5 155
+rect -8 142 6 146
+rect -8 131 -4 142
+rect -20 127 -4 131
+rect -23 84 -19 89
+rect -23 80 5 84
+<< metal3 >>
+rect 4 0 5 4
+use and_block  and_block_0
+timestamp 1700077697
+transform 1 0 18 0 1 210
+box -18 -210 63 87
+use inverter  inverter_0
+timestamp 1700050252
+transform 1 0 -12 0 1 123
+box -32 -34 -7 8
+use inverter  inverter_1
+timestamp 1700050252
+transform 1 0 -12 0 1 194
+box -32 -34 -7 8
+<< end >>
