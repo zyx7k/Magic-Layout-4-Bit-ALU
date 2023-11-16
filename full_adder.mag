@@ -1,0 +1,99 @@
+magic
+tech scmos
+timestamp 1700119619
+<< polysilicon >>
+rect 127 29 148 32
+rect -20 -80 -18 21
+rect -15 -47 -12 28
+rect 67 -43 74 -41
+rect -15 -50 1 -47
+rect 72 -73 74 -43
+rect 127 -47 130 29
+rect 127 -51 148 -47
+rect 127 -59 130 -51
+rect 222 -73 224 -39
+rect 72 -75 224 -73
+rect -20 -82 123 -80
+<< polycontact >>
+rect -16 28 -11 33
+rect -25 16 -20 21
+rect 63 -44 67 -40
+rect 1 -51 5 -47
+rect 148 28 153 33
+rect 148 -51 152 -47
+rect 126 -63 131 -59
+rect 224 -43 228 -39
+rect 123 -83 127 -79
+<< metal1 >>
+rect 4 65 5 69
+rect -30 36 -10 40
+rect -4 36 2 40
+rect 148 36 153 37
+rect -30 28 -16 33
+rect -11 28 0 33
+rect -30 16 -25 21
+rect 123 0 157 4
+rect 213 -35 232 -31
+rect 213 -40 217 -35
+rect 210 -44 217 -40
+rect 292 -45 297 -41
+rect 4 -70 5 -66
+rect 127 -83 130 -63
+rect 201 -69 228 -65
+<< m2contact >>
+rect 119 65 124 70
+rect 157 65 163 71
+rect -10 36 -4 42
+rect 148 37 153 42
+rect 77 -2 82 3
+rect 151 -8 156 -3
+rect 222 -9 227 -4
+rect 5 -43 10 -38
+rect 149 -43 154 -38
+rect 152 -70 157 -65
+rect 196 -70 201 -65
+<< metal2 >>
+rect 124 65 131 69
+rect 153 65 157 69
+rect 127 42 153 46
+rect 283 42 289 46
+rect -8 -39 -4 36
+rect -8 -43 5 -39
+rect 77 -66 81 -2
+rect 134 -39 138 42
+rect 147 -8 151 -4
+rect 188 -8 222 -4
+rect 134 -43 149 -39
+rect 40 -70 152 -66
+rect 187 -70 196 -66
+<< m3contact >>
+rect 131 65 137 71
+rect 147 65 153 71
+rect 41 -8 46 -3
+rect 142 -8 147 -3
+<< metal3 >>
+rect 137 65 147 69
+rect 140 -3 144 65
+rect 140 -4 142 -3
+rect 46 -8 142 -4
+use or  or_0
+timestamp 1700071073
+transform 1 0 222 0 1 -69
+box 1 0 70 65
+use and  and_1
+timestamp 1700070968
+transform 1 0 147 0 1 -70
+box 0 0 67 67
+use xor  xor_1
+timestamp 1700050706
+transform 1 0 170 0 1 32
+box -18 -32 113 37
+use and  and_0
+timestamp 1700070968
+transform 1 0 0 0 1 -70
+box 0 0 67 67
+use xor  xor_0
+timestamp 1700050706
+transform 1 0 18 0 1 32
+box -18 -32 113 37
+<< end >>
