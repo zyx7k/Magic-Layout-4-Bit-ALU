@@ -1,6 +1,6 @@
 magic
 tech scmos
-timestamp 1700151265
+timestamp 1701536329
 << polysilicon >>
 rect -146 119 -4 122
 rect -149 72 -146 119
@@ -151,53 +151,36 @@ rect 345 -157 349 14
 rect 345 -334 349 -162
 rect 345 -513 349 -339
 rect 305 -517 349 -513
-use xor  xor_3
-timestamp 1700050706
-transform 1 0 -116 0 1 -455
-box -18 -32 113 37
-use xor  xor_2
-timestamp 1700050706
-transform 1 0 -117 0 1 -277
-box -18 -32 113 37
-use xor  xor_1
-timestamp 1700050706
-transform 1 0 -120 0 1 -101
-box -18 -32 113 37
-use xor  xor_0
-timestamp 1700050706
-transform 1 0 -122 0 1 71
-box -18 -32 113 37
-use full_adder  full_adder_3
+use full_adder  full_adder_0
 timestamp 1700119619
-transform 1 0 30 0 1 -448
-box -30 -83 297 71
-use full_adder  full_adder_2
-timestamp 1700119619
-transform 1 0 30 0 1 -270
+transform 1 0 30 0 1 83
 box -30 -83 297 71
 use full_adder  full_adder_1
 timestamp 1700119619
 transform 1 0 30 0 1 -93
 box -30 -83 297 71
-use full_adder  full_adder_0
+use full_adder  full_adder_2
 timestamp 1700119619
-transform 1 0 30 0 1 83
+transform 1 0 30 0 1 -270
 box -30 -83 297 71
-<< labels >>
-rlabel metal1 -155 119 -154 123 3 m
-rlabel metal1 -155 111 -154 115 3 a0
-rlabel metal1 -155 75 -154 79 3 b0
-rlabel metal1 -154 -61 -153 -57 3 a1
-rlabel metal1 -155 -97 -154 -93 3 b1
-rlabel metal1 -155 -237 -154 -233 3 a2
-rlabel metal1 -155 -273 -154 -269 3 b2
-rlabel metal1 -155 -413 -154 -409 3 a3
-rlabel metal1 -156 -451 -155 -447 3 b3
-rlabel metal1 -130 -487 -129 -483 1 gnd
-rlabel metal1 -136 104 -135 108 1 vdd
-rlabel metal2 341 125 342 129 1 s0
-rlabel metal2 356 -51 357 -47 7 s1
-rlabel metal2 359 -228 360 -224 7 s2
-rlabel metal2 355 -406 356 -402 7 s3
-rlabel metal1 354 -493 355 -489 1 carry
+use full_adder  full_adder_3
+timestamp 1700119619
+transform 1 0 30 0 1 -448
+box -30 -83 297 71
+use xor  xor_0
+timestamp 1700050706
+transform 1 0 -122 0 1 71
+box -18 -32 113 37
+use xor  xor_1
+timestamp 1700050706
+transform 1 0 -120 0 1 -101
+box -18 -32 113 37
+use xor  xor_2
+timestamp 1700050706
+transform 1 0 -117 0 1 -277
+box -18 -32 113 37
+use xor  xor_3
+timestamp 1700050706
+transform 1 0 -116 0 1 -455
+box -18 -32 113 37
 << end >>
