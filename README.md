@@ -26,4 +26,4 @@ ngspice alu.ckt
 If you wish to check out the circuit designed in MAGIC Layout, run the following in your terminal:
 ```
 magic -T SCN6M_DEEP.09.tech27 alu.mag
-'''
+```
