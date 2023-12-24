@@ -1,6 +1,6 @@
 ## Description <br>
 
-This is a project which demonstrates a 4-Bit ALU made in Magic Layout which was made as a part of the VLSI-Design course taken by me in the Monsoon 2023 Semester. 
+This is a project which demonstrates a 4-Bit ALU made in Magic Layout which was made as a part of the VLSI-Design course taken by me in the Monsoon 2023 Semester. The design is based on a 180nm technology. 
 
 ### Overview
 
