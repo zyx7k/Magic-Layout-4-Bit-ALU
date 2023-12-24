@@ -1,5 +1,4 @@
 * SPICE3 file created from alu_final.ext - technology: scmos
-* SPICE3 file created from alu_final.ext - technology: scmos
 
 .global gnd
 .param SUPPLY = 1.8
